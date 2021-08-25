@@ -6,3 +6,6 @@ FASE I
 
 
 [Ejercicio Base de Datos](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Equipo_8-Ejercicio%20base%20de%20datos.pdf)
+
+
+[Ejercicios Básicos de Python](https://github.com/VeroAguilar/Mineria-de-datos/blob/main/Ej_Python_1855188.ipynb)
