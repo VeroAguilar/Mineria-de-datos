@@ -9,3 +9,5 @@ FASE I
 
 
 [Ejercicios Básicos de Python](https://github.com/VeroAguilar/Mineria-de-datos/blob/main/Ej_Python_1855188.ipynb)
+
+[Avance 1 PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo8.ipynb)
