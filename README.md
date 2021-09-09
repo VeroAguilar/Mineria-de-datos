@@ -19,4 +19,4 @@ FASE II
 
 [Presentación Métricas de Evaluación](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Presentacion_Metricas%20de%20Evaluaci%C3%B3n_Eq8.pdf)
 
-    *[Preguntas Métricas de Evaluación](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Preguntas_Metricas%20de%20Evaluaci%C3%B3n_Eq8.pdf)*
+   *[Preguntas Métricas de Evaluación](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Preguntas_Metricas%20de%20Evaluaci%C3%B3n_Eq8.pdf)
