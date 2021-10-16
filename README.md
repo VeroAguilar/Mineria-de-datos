@@ -29,4 +29,4 @@ FASE II
 
 * [Avance 2 PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/AvanceII_002_Equipo08.ipynb) 
 
-* [Ejercicio de técnicas de minería](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Ejercicio%20de%20tecnicas%20de%20mineria.ipynb) 
+* [Ejercicio de técnicas de minería](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/TecnicasPIA_002_Equipo08%20.ipynb)
