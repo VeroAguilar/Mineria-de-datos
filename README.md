@@ -35,7 +35,7 @@ FASE III
 
 * [Ejercicio de técnicas de minería](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/TecnicasPIA_002_Equipo08%20.ipynb)
 
-*[Notebook](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Notebook_002_Equipo08%20.ipynb)
+* [Notebook](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Notebook_002_Equipo08%20.ipynb)
 
 * [Pia Póster](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/SE%20FUNDE%20UN%20FOCO.png) 
-* [Imagen Árbol de decisión](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/ARBOL_DECISION.png)
+*[Imagen Árbol de decisión](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/ARBOL_DECISION.png)
